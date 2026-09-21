@@ -39,7 +39,7 @@ log_file <- file.path(
 # =========================
 
 clump_kb <- 10000
-clump_r2 <- 0.01
+clump_r2 <- 0.001
 clump_p  <- 5e-8
 
 plink_bin <- genetics.binaRies::get_plink_binary()
