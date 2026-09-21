@@ -7,11 +7,8 @@ library(genetics.binaRies)
 # =========================
 
 eqtl_file <- "path/to/eQTLGen_cis_eQTLs.txt"
-
 ref_dir <- "path/to/1000G_EUR_Phase3_plink"
-
 out_dir <- "path/to/output"
-
 log_dir <- "path/to/logs"
 
 # =========================
